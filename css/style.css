@@ -25,7 +25,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif, Arial, Helvetica, sans-serif;
 }
 .container {
     padding-left: 15px;
